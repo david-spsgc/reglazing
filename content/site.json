@@ -1,0 +1,55 @@
+{
+  "businessName": "Reglazing Revival Co.",
+  "phone": "(555) 208-9477",
+  "email": "hello@reglazingrevival.com",
+  "ctaMessage": "Call now for a free bathroom refinishing estimate",
+  "heroTitle": "Bathroom Surfaces Made Like-New with Professional Epoxy Coating",
+  "heroSubtitle": "We restore tubs, tile, shower surrounds, and sinks in as little as one day—without full demolition costs.",
+  "about": "Reglazing Revival Co. is a local home improvement contractor that specializes in epoxy coating for ceramic tile and tubs. We help homeowners, landlords, and property managers transform worn bathrooms into bright, clean spaces with durable finishes.",
+  "faq": [
+    {
+      "question": "How long does epoxy refinishing last?",
+      "answer": "With proper care, professional epoxy coatings can last 7–10 years or more."
+    },
+    {
+      "question": "How long is the bathroom out of service?",
+      "answer": "Most projects are completed in one day, and surfaces are typically ready for light use within 24–48 hours."
+    },
+    {
+      "question": "Is refinishing cheaper than replacement?",
+      "answer": "Yes. Refinishing generally costs a fraction of replacement because there is no demolition, disposal, or plumbing rework."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Maria G.",
+      "quote": "Our stained tub and old tile now look brand new. Great communication and a spotless cleanup."
+    },
+    {
+      "name": "Lakeside Rentals",
+      "quote": "Fast turnaround between tenants and consistently high-quality finish across multiple units."
+    },
+    {
+      "name": "James R.",
+      "quote": "Saved us from a full remodel. The before-and-after difference is unreal."
+    }
+  ],
+  "serviceAreas": [
+    "Downtown",
+    "North Ridge",
+    "Maple Heights",
+    "West Creek",
+    "Lakeshore",
+    "Brookfield",
+    "Pine Valley"
+  ],
+  "seo": {
+    "title": "Reglazing Revival Co. | Tile & Tub Epoxy Coating",
+    "description": "Before-and-after epoxy coating gallery for ceramic tubs, tile, and bathroom surfaces. Fast turnaround for homes, rentals, and commercial properties.",
+    "keywords": "bathtub refinishing, tile reglazing, epoxy tub coating, bathroom resurfacing"
+  },
+  "scripts": {
+    "head": "",
+    "body": ""
+  }
+}
